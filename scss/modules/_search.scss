@@ -1,0 +1,20 @@
+
+.search {
+	float: right;
+	margin-top: 20px;
+
+	&__field {
+		background-color: transparent;
+		border-bottom: 2px solid black;
+		padding: 5px;
+	
+	}
+	
+	&__btn {
+		background-color: transparent;
+		text-transform: uppercase;
+		font-weight: 700;
+	}
+}
+
+
